@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Sample
 
-![](ezgif-2-5c06271f25e1 (1).gif)
+![](ezgif-2-5c06271f25e1.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
